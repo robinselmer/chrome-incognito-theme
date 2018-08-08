@@ -1,0 +1,24 @@
+{
+   "description": "A theme that adds the Incognito Mode colors to the normal mode of Chrome.",
+   "manifest_version": 2,
+   "name": "Incognito Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 40, 43, 45 ],
+         "frame_inactive": [ 56, 59, 61 ],
+         "frame_incognito": [ 40, 43, 45 ],
+         "frame_incognito_inactive": [ 56, 59, 61 ],
+         "ntp_background": [ 48, 48, 48 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 80, 80, 80 ]
+      },
+      "tints": {
+         "buttons": [0, 0, 0.85 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}
